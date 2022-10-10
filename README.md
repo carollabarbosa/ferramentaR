@@ -7,3 +7,8 @@
 Essa API possui parte do código de :
 1. Fangyi Yu : https://github.com/fangyiyu
 2. Nirjas Jakilim: https://github.com/Nirzak
+
+
+Desenvolvida no Replit 
+Uso de Python 
+Heroku:https://fretificai.herokuapp.com/
