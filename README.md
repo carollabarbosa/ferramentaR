@@ -9,6 +9,6 @@ Essa API possui parte do código de :
 2. Nirjas Jakilim: https://github.com/Nirzak
 
 
-Desenvolvida no Replit 
-Uso de Python 
+Desenvolvida no Replit -
+Uso de Python -
 Heroku:https://fretificai.herokuapp.com/
