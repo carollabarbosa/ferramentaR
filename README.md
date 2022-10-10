@@ -4,9 +4,9 @@
  
  ( em construção)
 
-Essa API possui parte do código de :
-1. Fangyi Yu : https://github.com/fangyiyu
-2. Nirjas Jakilim: https://github.com/Nirzak
+Essa API possui parte do código de outros desenvolvedores:
+1. Fangyi Yu : https://github.com/fangyiyu   ( Licença MIT)
+2. Nirjas Jakilim: https://github.com/Nirzak 
 
 
 Desenvolvida no Replit -
